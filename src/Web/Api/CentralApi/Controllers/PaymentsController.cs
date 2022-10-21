@@ -137,7 +137,7 @@ namespace CentralApi.Controllers
                 var paymentPostRedirectModel = new PaymentPostRedirectModel
                 {
                     Url = bank.PaymentUrl,
-                    PaymentDataFormKey = PaymentDataFormKey,
+                    PaymentDataFormKey = PaymentDataFormKeyy,
                     PaymentData = proofRequest
                 };
 
