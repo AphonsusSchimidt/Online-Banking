@@ -10,7 +10,7 @@ It supports connecting multiple banks together through the _CentralApi_. This al
 
 Online Banking System consists of two base components - the bank web application and the _CentralApi_, which securely connects banks running on separate machines together to process transfers between different banks, card payments and direct payments.
 
-Additionally, all bank accounts created have an initial balance of €500 for demonstration purposes.
+Additionally, all bank accounts created have an initial balance of $500 for demonstration purposes.
 
 
 
