@@ -1,6 +1,6 @@
 # Online Banking System with ASP.NET Core 3.1 
 
-**This is the largest project I have ever got from my freelacing clients, I leart a lot like how does the fin-tech world works**
+**This is one of the projects that I developed for my freelacing client**
 
 **Online Banking System** is a web app where users can create bank accounts, transfer money, create payment cards, pay with them or directly through their account, etc.
 It supports connecting multiple banks together through the _CentralApi_. This allows money to be securely transferred between **separate instances of Online Banking System** running on different machines.
